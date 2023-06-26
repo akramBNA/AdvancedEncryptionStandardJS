@@ -12,4 +12,5 @@ function HexDecode(nbr) {
     return result
 }
 
-console.log(HexDecode("616b72616d"));
+// Ex: 616b72616d ==> "akram"
+// console.log(HexDecode(616b72616d));
